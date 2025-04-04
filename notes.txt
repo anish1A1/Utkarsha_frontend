@@ -1,0 +1,5 @@
+first project is installed --> npx create-next-app@latest
+then shadcn -->  npx shadcn@latest init   --> UI component
+then lucid-react --> npm install lucide        --> lucide react for image
+
+
